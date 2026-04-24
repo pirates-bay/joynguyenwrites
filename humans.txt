@@ -1,0 +1,12 @@
+/* TEAM */
+Owner: Joy Nguyen
+Focus: Global travel expertise, Peru and Vietnam travel content, AI-ready travel content, travel writing, destination research
+Profile: https://www.linkedin.com/in/thao-nguyen-writing/
+
+/* SITE */
+Language: English
+Standards: HTML, CSS, JavaScript, JSON-LD, robots.txt, sitemap.xml, llms.txt
+Last reviewed: 2026-04-24
+
+/* CONTENT PRINCIPLES */
+Travel advice should identify the author, distinguish personal or operational judgment from sourced facts, and show the date when time-sensitive guidance was last reviewed.

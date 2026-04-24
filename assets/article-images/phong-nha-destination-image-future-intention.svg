@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1067" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">How to plan Phong Nha beyond the caves</title>
+  <desc id="desc">Generated travel illustration for How to plan Phong Nha beyond the caves.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#402f28"/>
+      <stop offset="55%" stop-color="#b66b3d"/>
+      <stop offset="100%" stop-color="#f2c46d"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f8f4e9" stop-opacity=".95"/>
+      <stop offset="100%" stop-color="#f2c46d" stop-opacity=".35"/>
+    </radialGradient>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 .08"/>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="1157" cy="207" r="132" fill="url(#sun)" opacity=".86"/>
+  <path d="M0 215 C190 125 310 230 505 150 C720 60 885 165 1200 85" stroke="#f8f4e9" stroke-width="20" opacity=".11" fill="none"/>
+  <path d="M0 315 C250 230 380 325 620 250 C805 195 1000 230 1200 172" stroke="#f8f4e9" stroke-width="12" opacity=".13" fill="none"/>
+  
+      <path d="M0 705 L170 470 L310 618 L520 325 L700 660 L860 430 L1200 705 Z" fill="#b66b3d" opacity=".9"/>
+      <path d="M420 705 L610 510 L765 705 Z" fill="#402f28" opacity=".72"/>
+      <path d="M520 325 L570 410 L490 410 Z" fill="#f8f4e9" opacity=".7"/>
+      <path d="M82 682 C270 630 420 672 600 618 C825 550 980 620 1120 585" stroke="#f2c46d" stroke-width="13" opacity=".65" fill="none"/>
+  <rect width="1200" height="800" fill="#402f28" opacity=".14"/>
+  <rect width="1200" height="800" filter="url(#grain)" opacity=".55"/>
+  <g transform="translate(70 78)">
+    <rect x="0" y="0" width="355" height="48" rx="24" fill="#f8f4e9" opacity=".17"/>
+    <text x="26" y="32" fill="#f8f4e9" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="800" letter-spacing="3">VIETNAM RESEARCH</text>
+  </g>
+  <g transform="translate(72 485)">
+    <text x="0" y="0" fill="#f8f4e9" font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="700">How to plan Phong Nha</text>
+    <text x="0" y="58" fill="#f8f4e9" font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="700">beyond the caves</text>
+  </g>
+</svg>

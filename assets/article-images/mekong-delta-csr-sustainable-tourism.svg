@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1067" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">CSR in the Mekong Delta matters to travelers too</title>
+  <desc id="desc">Generated travel illustration for CSR in the Mekong Delta matters to travelers too.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#153d5b"/>
+      <stop offset="55%" stop-color="#4aa3a4"/>
+      <stop offset="100%" stop-color="#f0b35a"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f7f7f0" stop-opacity=".95"/>
+      <stop offset="100%" stop-color="#f0b35a" stop-opacity=".35"/>
+    </radialGradient>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 .08"/>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="1040" cy="190" r="130" fill="url(#sun)" opacity=".86"/>
+  <path d="M0 215 C190 125 310 230 505 150 C720 60 885 165 1200 85" stroke="#f7f7f0" stroke-width="20" opacity=".11" fill="none"/>
+  <path d="M0 315 C250 230 380 325 620 250 C805 195 1000 230 1200 172" stroke="#f7f7f0" stroke-width="12" opacity=".13" fill="none"/>
+  
+      <path d="M0 610 C180 525 320 660 500 570 C700 470 900 610 1200 500 L1200 705 L0 705 Z" fill="#4aa3a4" opacity=".78"/>
+      <path d="M0 705 C215 605 330 662 508 595 C720 516 860 642 1200 545 L1200 705 Z" fill="#315f6d" opacity=".85"/>
+      <path d="M125 620 C295 590 420 635 575 595" stroke="#f7f7f0" stroke-width="10" opacity=".32" fill="none"/>
+      <path d="M750 625 C875 585 1015 595 1125 552" stroke="#f7f7f0" stroke-width="10" opacity=".28" fill="none"/>
+      <path d="M690 570 l95 28 l-95 28 l-95 -28 Z" fill="#f0b35a" opacity=".9"/>
+  <rect width="1200" height="800" fill="#153d5b" opacity=".14"/>
+  <rect width="1200" height="800" filter="url(#grain)" opacity=".55"/>
+  <g transform="translate(70 78)">
+    <rect x="0" y="0" width="355" height="48" rx="24" fill="#f7f7f0" opacity=".17"/>
+    <text x="26" y="32" fill="#f7f7f0" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="800" letter-spacing="3">VIETNAM RESEARCH</text>
+  </g>
+  <g transform="translate(72 485)">
+    <text x="0" y="0" fill="#f7f7f0" font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="700">CSR in the Mekong Delta</text>
+    <text x="0" y="58" fill="#f7f7f0" font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="700">matters to travelers too</text>
+  </g>
+</svg>

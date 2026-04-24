@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1067" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Machu Picchu circuits changed how tours should be booked</title>
+  <desc id="desc">Generated travel illustration for Machu Picchu circuits changed how tours should be booked.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#123c35"/>
+      <stop offset="55%" stop-color="#2f7d6d"/>
+      <stop offset="100%" stop-color="#f1c56b"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f7f8f5" stop-opacity=".95"/>
+      <stop offset="100%" stop-color="#f1c56b" stop-opacity=".35"/>
+    </radialGradient>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 .08"/>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="1054" cy="244" r="149" fill="url(#sun)" opacity=".86"/>
+  <path d="M0 215 C190 125 310 230 505 150 C720 60 885 165 1200 85" stroke="#f7f8f5" stroke-width="20" opacity=".11" fill="none"/>
+  <path d="M0 315 C250 230 380 325 620 250 C805 195 1000 230 1200 172" stroke="#f7f8f5" stroke-width="12" opacity=".13" fill="none"/>
+  
+      <path d="M0 705 L210 438 L350 600 L530 342 L730 650 L930 382 L1200 705 Z" fill="#2f7d6d" opacity=".95"/>
+      <path d="M260 705 L470 480 L610 635 L760 420 L1000 705 Z" fill="#123c35" opacity=".95"/>
+      <path d="M520 342 L568 420 L492 420 Z" fill="#f7f8f5" opacity=".8"/>
+      <path d="M930 382 L985 470 L890 470 Z" fill="#f7f8f5" opacity=".75"/>
+      <path d="M455 705 C520 610 595 560 650 705 Z" fill="#f1c56b" opacity=".85"/>
+  <rect width="1200" height="800" fill="#123c35" opacity=".14"/>
+  <rect width="1200" height="800" filter="url(#grain)" opacity=".55"/>
+  <g transform="translate(70 78)">
+    <rect x="0" y="0" width="355" height="48" rx="24" fill="#f7f8f5" opacity=".17"/>
+    <text x="26" y="32" fill="#f7f8f5" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="800" letter-spacing="3">PERU RESEARCH</text>
+  </g>
+  <g transform="translate(72 485)">
+    <text x="0" y="0" fill="#f7f8f5" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">Machu Picchu circuits</text>
+    <text x="0" y="58" fill="#f7f8f5" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">changed how tours should be</text>
+    <text x="0" y="116" fill="#f7f8f5" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">booked</text>
+  </g>
+</svg>

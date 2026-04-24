@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1067" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Peru's buses move the country, so plan them seriously</title>
+  <desc id="desc">Generated travel illustration for Peru's buses move the country, so plan them seriously.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#18324a"/>
+      <stop offset="55%" stop-color="#4d8a9a"/>
+      <stop offset="100%" stop-color="#e6a45a"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f5efe2" stop-opacity=".95"/>
+      <stop offset="100%" stop-color="#e6a45a" stop-opacity=".35"/>
+    </radialGradient>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 .08"/>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="1187" cy="177" r="137" fill="url(#sun)" opacity=".86"/>
+  <path d="M0 215 C190 125 310 230 505 150 C720 60 885 165 1200 85" stroke="#f5efe2" stroke-width="20" opacity=".11" fill="none"/>
+  <path d="M0 315 C250 230 380 325 620 250 C805 195 1000 230 1200 172" stroke="#f5efe2" stroke-width="12" opacity=".13" fill="none"/>
+  
+      <path d="M0 690 L280 470 L430 590 L650 355 L870 610 L1200 430 L1200 705 L0 705 Z" fill="#4d8a9a" opacity=".9"/>
+      <path d="M520 705 C585 575 632 470 640 352 C716 480 790 594 875 705 Z" fill="#20292f" opacity=".9"/>
+      <path d="M675 705 C650 586 642 476 640 360" stroke="#f5efe2" stroke-width="8" stroke-dasharray="32 34" opacity=".8" fill="none"/>
+      <rect x="237" y="560" width="150" height="60" rx="16" fill="#e6a45a"/>
+      <circle cx="277" cy="625" r="18" fill="#18324a"/>
+      <circle cx="352" cy="625" r="18" fill="#18324a"/>
+  <rect width="1200" height="800" fill="#18324a" opacity=".14"/>
+  <rect width="1200" height="800" filter="url(#grain)" opacity=".55"/>
+  <g transform="translate(70 78)">
+    <rect x="0" y="0" width="355" height="48" rx="24" fill="#f5efe2" opacity=".17"/>
+    <text x="26" y="32" fill="#f5efe2" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="800" letter-spacing="3">PERU RESEARCH</text>
+  </g>
+  <g transform="translate(72 485)">
+    <text x="0" y="0" fill="#f5efe2" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">Peru's buses move the</text>
+    <text x="0" y="58" fill="#f5efe2" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">country, so plan them</text>
+    <text x="0" y="116" fill="#f5efe2" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">seriously</text>
+  </g>
+</svg>

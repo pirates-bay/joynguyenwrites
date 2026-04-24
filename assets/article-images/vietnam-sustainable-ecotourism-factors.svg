@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1067" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Sustainable ecotourism in Vietnam needs satisfaction and substance</title>
+  <desc id="desc">Generated travel illustration for Sustainable ecotourism in Vietnam needs satisfaction and substance.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#18324a"/>
+      <stop offset="55%" stop-color="#4d8a9a"/>
+      <stop offset="100%" stop-color="#e6a45a"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f5efe2" stop-opacity=".95"/>
+      <stop offset="100%" stop-color="#e6a45a" stop-opacity=".35"/>
+    </radialGradient>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 .08"/>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="1185" cy="215" r="165" fill="url(#sun)" opacity=".86"/>
+  <path d="M0 215 C190 125 310 230 505 150 C720 60 885 165 1200 85" stroke="#f5efe2" stroke-width="20" opacity=".11" fill="none"/>
+  <path d="M0 315 C250 230 380 325 620 250 C805 195 1000 230 1200 172" stroke="#f5efe2" stroke-width="12" opacity=".13" fill="none"/>
+  
+      <path d="M0 705 L170 470 L310 618 L520 325 L700 660 L860 430 L1200 705 Z" fill="#4d8a9a" opacity=".9"/>
+      <path d="M420 705 L610 510 L765 705 Z" fill="#18324a" opacity=".72"/>
+      <path d="M520 325 L570 410 L490 410 Z" fill="#f5efe2" opacity=".7"/>
+      <path d="M82 682 C270 630 420 672 600 618 C825 550 980 620 1120 585" stroke="#e6a45a" stroke-width="13" opacity=".65" fill="none"/>
+  <rect width="1200" height="800" fill="#18324a" opacity=".14"/>
+  <rect width="1200" height="800" filter="url(#grain)" opacity=".55"/>
+  <g transform="translate(70 78)">
+    <rect x="0" y="0" width="355" height="48" rx="24" fill="#f5efe2" opacity=".17"/>
+    <text x="26" y="32" fill="#f5efe2" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="800" letter-spacing="3">VIETNAM RESEARCH</text>
+  </g>
+  <g transform="translate(72 485)">
+    <text x="0" y="0" fill="#f5efe2" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">Sustainable ecotourism in</text>
+    <text x="0" y="58" fill="#f5efe2" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">Vietnam needs satisfaction</text>
+    <text x="0" y="116" fill="#f5efe2" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">and substance</text>
+  </g>
+</svg>

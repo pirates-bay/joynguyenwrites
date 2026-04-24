@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1067" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Da Nang planning starts with location and service</title>
+  <desc id="desc">Generated travel illustration for Da Nang planning starts with location and service.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#18324a"/>
+      <stop offset="55%" stop-color="#4d8a9a"/>
+      <stop offset="100%" stop-color="#e6a45a"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f5efe2" stop-opacity=".95"/>
+      <stop offset="100%" stop-color="#e6a45a" stop-opacity=".35"/>
+    </radialGradient>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 .08"/>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="1233" cy="183" r="173" fill="url(#sun)" opacity=".86"/>
+  <path d="M0 215 C190 125 310 230 505 150 C720 60 885 165 1200 85" stroke="#f5efe2" stroke-width="20" opacity=".11" fill="none"/>
+  <path d="M0 315 C250 230 380 325 620 250 C805 195 1000 230 1200 172" stroke="#f5efe2" stroke-width="12" opacity=".13" fill="none"/>
+  
+      <path d="M0 625 C160 585 290 645 455 590 C655 520 830 610 1200 520 L1200 705 L0 705 Z" fill="#4d8a9a" opacity=".82"/>
+      <path d="M230 650 L230 430 L590 430 L590 650 Z" fill="#f5efe2" opacity=".34"/>
+      <path d="M205 430 L410 305 L615 430 Z" fill="#e6a45a" opacity=".95"/>
+      <path d="M670 650 L670 388 L950 388 L950 650 Z" fill="#18324a" opacity=".78"/>
+      <circle cx="330" cy="505" r="34" fill="#dbb365" opacity=".9"/>
+      <circle cx="760" cy="478" r="30" fill="#e6a45a" opacity=".88"/>
+  <rect width="1200" height="800" fill="#18324a" opacity=".14"/>
+  <rect width="1200" height="800" filter="url(#grain)" opacity=".55"/>
+  <g transform="translate(70 78)">
+    <rect x="0" y="0" width="355" height="48" rx="24" fill="#f5efe2" opacity=".17"/>
+    <text x="26" y="32" fill="#f5efe2" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="800" letter-spacing="3">VIETNAM RESEARCH</text>
+  </g>
+  <g transform="translate(72 485)">
+    <text x="0" y="0" fill="#f5efe2" font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="700">Da Nang planning starts</text>
+    <text x="0" y="58" fill="#f5efe2" font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="700">with location and service</text>
+  </g>
+</svg>

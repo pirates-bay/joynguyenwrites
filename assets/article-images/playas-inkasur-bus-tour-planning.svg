@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1067" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Arequipa's Playas InkaSur corridor needs beach-route planning</title>
+  <desc id="desc">Generated travel illustration for Arequipa's Playas InkaSur corridor needs beach-route planning.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#2b3147"/>
+      <stop offset="55%" stop-color="#7e6aa8"/>
+      <stop offset="100%" stop-color="#dbb365"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f5f2ee" stop-opacity=".95"/>
+      <stop offset="100%" stop-color="#dbb365" stop-opacity=".35"/>
+    </radialGradient>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 .08"/>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="1183" cy="253" r="138" fill="url(#sun)" opacity=".86"/>
+  <path d="M0 215 C190 125 310 230 505 150 C720 60 885 165 1200 85" stroke="#f5f2ee" stroke-width="20" opacity=".11" fill="none"/>
+  <path d="M0 315 C250 230 380 325 620 250 C805 195 1000 230 1200 172" stroke="#f5f2ee" stroke-width="12" opacity=".13" fill="none"/>
+  
+      <path d="M0 690 C165 610 300 650 430 590 C620 505 805 612 1200 500 L1200 705 L0 705 Z" fill="#dbb365" opacity=".9"/>
+      <path d="M0 705 C210 615 370 708 580 610 C790 512 960 585 1200 545 L1200 705 Z" fill="#7e6aa8" opacity=".72"/>
+      <path d="M120 610 C240 575 310 585 438 548" stroke="#f5f2ee" stroke-width="10" opacity=".25" fill="none"/>
+      <path d="M685 610 C805 566 945 565 1080 525" stroke="#f5f2ee" stroke-width="10" opacity=".22" fill="none"/>
+  <rect width="1200" height="800" fill="#2b3147" opacity=".14"/>
+  <rect width="1200" height="800" filter="url(#grain)" opacity=".55"/>
+  <g transform="translate(70 78)">
+    <rect x="0" y="0" width="355" height="48" rx="24" fill="#f5f2ee" opacity=".17"/>
+    <text x="26" y="32" fill="#f5f2ee" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="800" letter-spacing="3">PERU RESEARCH</text>
+  </g>
+  <g transform="translate(72 485)">
+    <text x="0" y="0" fill="#f5f2ee" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">Arequipa's Playas InkaSur</text>
+    <text x="0" y="58" fill="#f5f2ee" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">corridor needs beach-route</text>
+    <text x="0" y="116" fill="#f5f2ee" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">planning</text>
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1067" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Post-pandemic travel behavior still affects Vietnam planning</title>
+  <desc id="desc">Generated travel illustration for Post-pandemic travel behavior still affects Vietnam planning.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#123c35"/>
+      <stop offset="55%" stop-color="#2f7d6d"/>
+      <stop offset="100%" stop-color="#f1c56b"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f7f8f5" stop-opacity=".95"/>
+      <stop offset="100%" stop-color="#f1c56b" stop-opacity=".35"/>
+    </radialGradient>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 .08"/>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="996" cy="166" r="121" fill="url(#sun)" opacity=".86"/>
+  <path d="M0 215 C190 125 310 230 505 150 C720 60 885 165 1200 85" stroke="#f7f8f5" stroke-width="20" opacity=".11" fill="none"/>
+  <path d="M0 315 C250 230 380 325 620 250 C805 195 1000 230 1200 172" stroke="#f7f8f5" stroke-width="12" opacity=".13" fill="none"/>
+  
+      <path d="M0 705 L0 512 L92 512 L92 442 L190 442 L190 565 L292 565 L292 398 L390 398 L390 705 Z" fill="#123c35" opacity=".9"/>
+      <path d="M420 705 L420 460 L535 460 L535 350 L650 350 L650 545 L770 545 L770 430 L870 430 L870 705 Z" fill="#2f7d6d" opacity=".88"/>
+      <path d="M900 705 L900 515 L990 515 L990 455 L1078 455 L1078 590 L1200 590 L1200 705 Z" fill="#123c35" opacity=".78"/>
+      <path d="M90 662 C330 612 560 690 805 630 C980 585 1080 615 1200 585" stroke="#f1c56b" stroke-width="13" opacity=".7" fill="none"/>
+  <rect width="1200" height="800" fill="#123c35" opacity=".14"/>
+  <rect width="1200" height="800" filter="url(#grain)" opacity=".55"/>
+  <g transform="translate(70 78)">
+    <rect x="0" y="0" width="355" height="48" rx="24" fill="#f7f8f5" opacity=".17"/>
+    <text x="26" y="32" fill="#f7f8f5" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="800" letter-spacing="3">VIETNAM RESEARCH</text>
+  </g>
+  <g transform="translate(72 485)">
+    <text x="0" y="0" fill="#f7f8f5" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">Post-pandemic travel</text>
+    <text x="0" y="58" fill="#f7f8f5" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">behavior still affects</text>
+    <text x="0" y="116" fill="#f7f8f5" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">Vietnam planning</text>
+  </g>
+</svg>
