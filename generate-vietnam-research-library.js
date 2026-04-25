@@ -1209,7 +1209,7 @@ function updateSitemap() {
   const body = existing.map((url, index) => `  <url>
     <loc>${site}/${url}</loc>
     <lastmod>${isoDate}</lastmod>
-    <changefreq>${index === 0 ? "monthly" : "quarterly"}</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>${index === 0 ? "1.0" : url === "vietnam-research-library.html" ? "0.9" : "0.8"}</priority>
   </url>`).join("\n");
 

@@ -1098,7 +1098,7 @@ function updateSitemap() {
     .map((url) => `  <url>
     <loc>${site}/${url}</loc>
     <lastmod>${isoDate}</lastmod>
-    <changefreq>quarterly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>${url === "peru-bus-tour-research-library.html" ? "0.9" : "0.8"}</priority>
   </url>`)
     .join("\n");
