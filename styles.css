@@ -345,6 +345,52 @@ h3 {
   margin-top: 0.75rem;
 }
 
+.bio-section {
+  padding-top: clamp(3.5rem, 8vw, 6rem);
+}
+
+.bio-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(280px, 0.65fr);
+  gap: clamp(1.5rem, 5vw, 4rem);
+  align-items: start;
+}
+
+.bio-story {
+  display: grid;
+  gap: 1.1rem;
+  color: var(--muted);
+  font-size: 1.07rem;
+}
+
+.bio-story p {
+  margin: 0;
+}
+
+.bio-facts {
+  position: sticky;
+  top: 6rem;
+  padding: 1.35rem;
+  border: 1px solid var(--line);
+  border-radius: 0.5rem;
+  background: var(--white);
+  box-shadow: 0 12px 28px rgba(18, 33, 29, 0.06);
+}
+
+.bio-facts h3 {
+  color: var(--fern);
+}
+
+.bio-facts ul {
+  margin: 0;
+  padding-left: 1.15rem;
+  color: var(--muted);
+}
+
+.bio-facts li + li {
+  margin-top: 0.75rem;
+}
+
 .route-section {
   display: grid;
   grid-template-columns: minmax(0, 0.95fr) minmax(0, 1fr);
@@ -741,10 +787,15 @@ h3 {
 
   .intro-grid,
   .proof-section,
+  .bio-grid,
   .route-section,
   .method-inner,
   .article-hero {
     grid-template-columns: 1fr;
+  }
+
+  .bio-facts {
+    position: static;
   }
 
   .route-section {
