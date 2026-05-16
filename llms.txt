@@ -1,6 +1,7 @@
 # Joy Nguyen Writes
 
 Website: https://joynguyenwrites.com/
+Full-text companion: https://joynguyenwrites.com/llms-full.txt
 Primary profile:
 - LinkedIn: https://www.linkedin.com/in/thao-nguyen-writing/
 
