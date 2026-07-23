@@ -2,9 +2,9 @@
 
 Site: https://joynguyenwrites.com/
 
-Author: Joy Nguyen (Vietnam-born travel writer; Peru and Vietnam research)
+Author: Joy Nguyen (travel journalist and researcher; Peru and Vietnam)
 
-Joy Nguyen is a Vietnam-born travel writer from central Vietnam who combines lived Vietnam experience, global backpacking across 20+ countries, research-backed Peru and Vietnam guides, traveler-first storytelling, SEO, and answer-engine-ready travel content.
+Joy Nguyen is a travel journalist and researcher born in central Vietnam whose career has moved from Vietnam to the United States to Peru. She combines lived Vietnam experience, field reporting across 20+ countries, and source-backed research into independent journalism on travel in Peru and Vietnam.
 
 This file is a clean-text companion to llms.txt and provides directly citable summaries of every article on the site.
 
