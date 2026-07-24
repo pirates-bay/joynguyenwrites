@@ -38,6 +38,7 @@ body {
 img {
   display: block;
   max-width: 100%;
+  height: auto;
 }
 
 a {
@@ -373,7 +374,14 @@ h3 {
 
 .bio-portrait img {
   width: 100%;
+  max-width: 340px;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
   border: 1px solid var(--line);
+}
+
+.bio-portrait figcaption {
+  max-width: 340px;
 }
 
 .bio-portrait figcaption {
